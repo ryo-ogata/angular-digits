@@ -6,7 +6,7 @@
   ],
   "ignore": [],
   "description": "AngularJS module for Twitter's Fabric Digits",
-  "main": "index.js",
+  "main": "dist/angular-digits.js",
   "license": "MIT",
   "devDependencies": {
     "angular-mocks": "~1.3.15",
